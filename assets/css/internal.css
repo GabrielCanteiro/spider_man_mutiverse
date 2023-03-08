@@ -146,6 +146,11 @@
 
 }
 
+
+.s-container-error-message{
+    display: none;
+}
+
 @media screen and (max-width: 720px){
     .s-wrapper{
         display: none;
